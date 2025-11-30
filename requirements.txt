@@ -1,0 +1,4 @@
+python-telegram-bot>=20,<22
+apscheduler<4.0
+pytz
+tzlocal<3.0
